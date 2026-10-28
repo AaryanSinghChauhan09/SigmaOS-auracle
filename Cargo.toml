@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_auracle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_auracle"
+path = "src/lib.rs"
